@@ -14,4 +14,4 @@ The purpose of this analysis is to analyze data on student funding and student's
 
 4- The charter kind of school performed a lot better than the district ones. 
 
-For further information please consult the tables in the coding file. 
+For further information please consult the tables in the coding file Pycity_schools_challenge.ipynb
